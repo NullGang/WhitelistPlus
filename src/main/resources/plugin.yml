@@ -1,0 +1,25 @@
+name: WhitelistPlus
+version: '${project.version}'
+main: me.nullonrise.whitelistplus.WhitelistPlus
+api-version: 1.14
+prefix: Whitelist+
+load: STARTUP
+authors: [NullOnRise]
+description: Control your whitelist or use it like a blacklist.
+commands:
+  wlplus:
+    aliases: ["whitelistplus", "wlp"]
+    description: The main command of the plugin
+permissions:
+  whitelistplus.add:
+    default: op
+  whitelistplus.remove:
+    default: op
+  whitelistplus.enable:
+    default: op
+  whitelistplus.disable:
+    default: op
+  whitelistplus.reload:
+    default: op
+  whitelist.list:
+    default: op

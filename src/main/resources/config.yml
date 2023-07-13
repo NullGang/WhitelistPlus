@@ -1,0 +1,8 @@
+#Add players name into this lis
+List: []
+
+#Use the list as a Blacklist
+UseAsBlacklist: false
+
+#Enabled the whitelist or blacklist
+Enabled: true

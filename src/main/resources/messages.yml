@@ -1,0 +1,12 @@
+Messages:
+  Prefix: "&8&l[&f&lWHITELIST&e&l+&8&l]"
+  NotListed: "&4You are not whitelisted or you are in the blacklist of this server."
+  PlayerAdded: "&eSuccessfully added player into the list."
+  PlayerRemove: "&eSuccessfully removed player off the list."
+  Enable: "&eSuccessfully enabled the list."
+  Disable: "&eSuccesfully disabled the whitelist."
+  BLOn: "&eSuccesfully disabled the list."
+  WLOn: "&eSuccessfully enabled the blacklist."
+  Reload: "&eReloaded correctly."
+  Error: "&4Error: "
+  #Leave a blank space at the end for not bad view
