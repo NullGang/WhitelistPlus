@@ -5,8 +5,8 @@ Messages:
   PlayerRemove: "&eSuccessfully removed player off the list."
   Enable: "&eSuccessfully enabled the list."
   Disable: "&eSuccesfully disabled the whitelist."
-  BLOn: "&eSuccesfully disabled the list."
-  WLOn: "&eSuccessfully enabled the blacklist."
+  BLOn: "&eSuccesfully enabled the blacklist."
+  WLOn: "&eSuccessfully enabled the whitelist."
   Reload: "&eReloaded correctly."
   Error: "&4Error: "
   #Leave a blank space at the end for not bad view
